@@ -14,6 +14,10 @@ Demo: [https://spacex-dev.netlify.app/](https://spacex-dev.netlify.app/)
 ![coders](https://res.cloudinary.com/dcqjmkwvc/image/upload/v1610448843/MHS/xwoxq0ennjuimicglyra.png)
 Demo: [https://coders-portfolio.netlify.app/](https://coders-portfolio.netlify.app/)
 
+#### Modern CV
+![modern-cv](https://res.cloudinary.com/dcqjmkwvc/image/upload/v1610464141/MHS/vcbg3wverreamzqfcrqi.png)
+Demo: [https://modern-cv.netlify.app/](https://modern-cv.netlify.app/)
+
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
