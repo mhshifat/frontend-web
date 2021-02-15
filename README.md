@@ -22,6 +22,10 @@ Demo: [https://modern-cv.netlify.app/](https://modern-cv.netlify.app/)
 ![upvesh](https://res.cloudinary.com/dcqjmkwvc/image/upload/v1610597941/MHS/crz9peumv8quhioq9rot.png)
 Demo: [https://upvesh-cv.netlify.app/](https://upvesh-cv.netlify.app/)
 
+#### Shoe App Landing Page
+![shoe-app](https://res.cloudinary.com/dcqjmkwvc/image/upload/v1613351590/MHS/ydexdrdgvtzkq93hjmto.png)
+Demo: [https://shoe-app-landing-page.netlify.app/](https://shoe-app-landing-page.netlify.app/)
+
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
